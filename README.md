@@ -2,7 +2,7 @@
 
 ### A passionate software developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xCYB3RW0LF6T9" alt="0xCYB3RW0LF6T9" /></a> </p>
+
 
 - 🔭 I'm currently working on **Java Project**
 
