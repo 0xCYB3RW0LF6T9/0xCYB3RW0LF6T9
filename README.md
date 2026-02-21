@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 💬 Ask me about **C, C++, Python, Java, JavaFX, Html , CSS, JavaScript**
+- 💬 Ask me about **C, C++, Python, Java, JavaFX, Html , CSS, JavaScript, Adndroid, Arduino **
 
 - 📫 How to reach me **ttazowar@gmail.com**
 
