@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/0xCYB3RW0LF6T9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="0xCYB3RW0LF6T9" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/CYB3RW0LF.6T9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/CYB3RW0LF.6T9" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/CYB3RW0LF.6T9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/CYB3RW0LF.6T9/" height="30" width="40" /></a>
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/ttazowar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ttazowar" height="30" width="40" /></a>
 </p>
 
