@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ttazowar@gmail.com**
 
-- ⚡ Fun fact **They gave me poisson and I gave them my memories They Died and I lived on**
+- ⚡ Fun fact **They gave me poison and I gave them my memories They Died and I lived on**
 
 - 📝 I regularly write articles on **[https://cyb3rw0lf007.wordpress.com/](https://cyb3rw0lf007.wordpress.com/)**
 
