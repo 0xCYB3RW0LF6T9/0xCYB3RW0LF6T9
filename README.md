@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I'm currently working on **Java Project**
+- 🔭 I'm currently working on **___**
 
-- 🌱 I'm currently learning **Java FX**
+- 🌱 I'm currently learning **___**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ttazowar@gmail.com**
 
-- ⚡ Fun fact **I am a funny person**
+- ⚡ Fun fact **They gave me poisson and I gave them my memories \n They Died and I lived on**
 
 - 📝 I regularly write articles on **[https://cyb3rw0lf007.wordpress.com/](https://cyb3rw0lf007.wordpress.com/)**
 
