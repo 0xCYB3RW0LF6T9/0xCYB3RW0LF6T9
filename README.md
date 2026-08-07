@@ -18,6 +18,10 @@
 
 - 📝 I regularly write articles on **[https://cyb3rw0lf007.wordpress.com/](https://cyb3rw0lf007.wordpress.com/)**
 
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xCYB3RW0LF6T9&label=Profile%20Views&color=0e75b6&style=flat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/0xCYB3RW0LF6T9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="0xCYB3RW0LF6T9" height="30" width="40" /></a>
